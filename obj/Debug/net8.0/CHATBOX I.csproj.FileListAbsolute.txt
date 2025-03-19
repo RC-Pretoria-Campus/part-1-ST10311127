@@ -1,0 +1,18 @@
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\CHATBOX I.exe
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\CHATBOX I.deps.json
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\CHATBOX I.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\CHATBOX I.dll
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\CHATBOX I.pdb
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.csproj.Up2Date
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.dll
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\refint\CHATBOX I.dll
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.pdb
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\CHATBOX I.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\CHATBOX I\obj\Debug\net8.0\ref\CHATBOX I.dll
