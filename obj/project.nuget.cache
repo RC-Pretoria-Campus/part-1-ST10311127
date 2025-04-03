@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CAipo7nSgjk=",
+  "dgSpecHash": "BPVgb7vSXsQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\CHATBOX II\\CHATBOX II.csproj",
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\source\\repos\\CHATBOX III\\CHATBOX III.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
   ],
